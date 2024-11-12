@@ -1,0 +1,22 @@
+{
+  "validCredentials": {
+    "username": "Admin",
+    "password": "admin123"
+  },
+"without_password" : {
+    "username" : "Admin",
+    "password" : ""
+  },
+  "without_username" : {
+    "username" : "",
+    "password" : "admin123"
+  },
+  "withWrong_password" : {
+    "username" : "Admin",
+    "password" : "admin12"
+  },
+  "withWrong_username" : {
+    "username" : "Admi",
+    "password" : "admin123"
+  }
+}
